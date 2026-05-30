@@ -13,6 +13,5 @@ Its a thing I made when I was in 8th grade, its going to be like an umbrella com
 <img width="871" height="653" alt="1780111321993-bfaopo" src="https://github.com/user-attachments/assets/e977402c-1073-4e50-8a30-23366a84a5b4" />
 <img width="1509" height="968" alt="1780111336681-ecxohw" src="https://github.com/user-attachments/assets/d4de862d-a585-4f82-ab98-247b48b4263c" />
 
-#Wiring of the Project
-
-
+# Wiring of the Project
+<img width="1219" height="863" alt="image" src="https://github.com/user-attachments/assets/4649dbbf-b3ae-49ed-ab7d-bd577248596a" />
