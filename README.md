@@ -2,7 +2,7 @@
 This project is one of if not the most technically first hardware project that i've ever DONE!! IT IS GROUND BREAKING!! Utlizing the ESP32 and connecting it to keycaps in which YOU CAN CONTROL, get this, YOUR SPOTIFY!!!!!!!
 
 # How does it work??
-Like the first paragraph says, YOU CONTROL IT, GET THIS, WITH THE ROTARY ENCODER AND KEYCAPS!!!!K!J!KJ!KLJKLJDKFJSDJF OH MAN SO COOL!!!
+The project works by connecting through the ESP32 Microcontroller to WIFI and accesing Spotify through the ESP32Spotify API which can access what you are currently playing on what device at any given moment. Using 3 keyswitches, any color, and a rotary encoder which will be used for volume knobs and maybe even more features later on.
 
 # Everest Studios? Whats that?
 Its a thing I made when I was in 8th grade, its going to be like an umbrella company with mutliple niches such as hardware, animation, game dev, and engineering. All that fun stuff. Still working on it.
@@ -15,3 +15,4 @@ Its a thing I made when I was in 8th grade, its going to be like an umbrella com
 
 # Wiring of the Project
 <img width="1219" height="863" alt="image" src="https://github.com/user-attachments/assets/4649dbbf-b3ae-49ed-ab7d-bd577248596a" />
+
