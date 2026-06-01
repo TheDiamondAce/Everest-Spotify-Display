@@ -14,5 +14,6 @@ Its a thing I made when I was in 8th grade, its going to be like an umbrella com
 <img width="1509" height="968" alt="1780111336681-ecxohw" src="https://github.com/user-attachments/assets/d4de862d-a585-4f82-ab98-247b48b4263c" />
 
 # Wiring of the Project
-<img width="1219" height="863" alt="image" src="https://github.com/user-attachments/assets/4649dbbf-b3ae-49ed-ab7d-bd577248596a" />
+<img width="1780" height="1141" alt="Screenshot 2026-05-31 184507" src="https://github.com/user-attachments/assets/5c320f16-e87c-44ce-b96d-5e27d337ac5e" />
+
 
